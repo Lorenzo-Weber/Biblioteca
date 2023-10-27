@@ -145,10 +145,6 @@ th, td {
     text-align: center;
 }
 
-td {
-    border-top: 1px solid var(--sweet-blue);
-}
-
 /* BOOK SECTION */
 
 .infobar {
